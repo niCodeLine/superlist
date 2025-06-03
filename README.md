@@ -27,7 +27,7 @@ my_list: list = [1, 2, 3, '4']
 l = Lista(my_list)
 # [1, 2, 3, 4]
 ```
-*Note*: for the followings examples we're gonna be using the previous list.
+*Note: for the followings examples we're gonna be using the previous list.*
 
 ### .add(item, position=-1)
 Add an item at a given position. Default adds to the end.
