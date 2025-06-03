@@ -89,10 +89,10 @@ for item in l:
 
 ## Features
 
-- **Considers Uslessness of Data**: If the average of the probabilty of rain is 0, it changes the second graph
-showing the percentage of clouds instead.
-- **Redaction**: It gets random generated responses explaining the weather to give it a more natural feeling.
-- **Beautiful**: Nice colors.
+- **Add to whatever position you like**
+- **Better way of deleting items**
+- **Find items easier**
+- **Still get the list common features**
 
 
 ## Contributions
